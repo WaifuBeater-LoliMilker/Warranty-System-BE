@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <None Include="efpt.config.json.user" />
+    <None Include="Properties\PublishProfiles\IISProfile.pubxml.user" />
   </ItemGroup>
 	<ItemGroup>
 		<PackageReference Include="Dapper" Version="2.1.66" />
