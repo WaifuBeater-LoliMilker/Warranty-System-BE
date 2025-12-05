@@ -1,0 +1,98 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "warranty_systemContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "MinimumProductVersion": "2.6.0",
+   "ModelNamespace": null,
+   "OutputContextPath": "Models\/Context",
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "Warranty_System",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "issues",
+         "ObjectType": 0
+      },
+      {
+         "Name": "order_detail_info",
+         "ObjectType": 0
+      },
+      {
+         "Name": "order_details",
+         "ObjectType": 0
+      },
+      {
+         "Name": "orders",
+         "ObjectType": 0
+      },
+      {
+         "Name": "products",
+         "ObjectType": 0
+      },
+      {
+         "Name": "refresh_tokens",
+         "ObjectType": 0
+      },
+      {
+         "Name": "roles",
+         "ObjectType": 0
+      },
+      {
+         "Name": "serials",
+         "ObjectType": 0
+      },
+      {
+         "Name": "spare_parts",
+         "ObjectType": 0
+      },
+      {
+         "Name": "spare_parts_groups",
+         "ObjectType": 0
+      },
+      {
+         "Name": "units",
+         "ObjectType": 0
+      },
+      {
+         "Name": "users",
+         "ObjectType": 0
+      },
+      {
+         "Name": "warranty_claims",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDatabaseNamesForRoutines": true,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseInternalAccessModifiersForSprocsAndFunctions": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": true,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false,
+   "UseT4Split": false
+}
